@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Permanent+Marker&display=swap');
+
+
+.scroll{
+  margin-top:5%;
+  width:20%;
+  position: sticky;
+}
+
+.box{
+
+    width:100%;
+  margin-top:5%;
+   border-right: 1px rgb(202, 193, 193) solid;
+   margin-bottom: 30%;
+   position: sticky; /* Set to 'sticky' */
+   top: 0; 
+  
+}
+
+.link {
+    margin-left: 5%;
+    text-decoration: none;
+    margin-top: 1%;
+    display: block; /* Ensures the link behaves like a block-level element */
+    padding: 2%; /* Adjust padding as needed */
+    color: rgb(27, 26, 26);
+    transition: color 0.3s, background-color 0.3s; /* Add a smooth transition effect */
+  }
+  
+  .link:hover {
+    color: rgb(247, 238, 238);
+    background-color: rgb(133, 127, 127);
+    border-radius: 5px;
+    
+  }
+h3{
+    width:30%;
+  
+    font-family: 'Dosis', sans-serif;
+    padding: 2%; /* Adjust padding as needed */
+    color: rgb(65, 61, 61);
+    margin-top: 1%;
+    margin-left: 5%;
+    font-size: 30px;
+    position: relative;
+    left:-6px;  
+}

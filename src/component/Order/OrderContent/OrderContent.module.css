@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Permanent+Marker&display=swap');
+
+
+
+.order{
+   border: 1px  rgb(144, 105, 129) solid;
+    width:80%;
+    display:flex;
+    margin-left: 5%;
+        justify-content: space-between; /* or use space-around, space-evenly, etc. based on your preference */
+        padding:1% 2%;
+        border-radius: 5px;
+}
+.content{
+    width:100%;
+    
+  
+}
+.super{
+width:80%
+}
+.head{
+    margin-top:3%;
+    margin-left: 6%;
+    margin-bottom: 5%;
+    font-family: 'Dosis', sans-serif;
+}
+
+.contain{
+    float: left;
+ 
+}
+.cancel{
+    background-color: white;
+   
+}
+.cancell{
+    background-color: white;
+   border: 1px white solid;
+   color: rgb(144, 105, 129);
+   border-radius:5px ;
+   transition: all 0.8s ease;
+}
+.cancell:hover{
+    background-color: white;
+   border: 1px rgb(144, 105, 129) solid;
+
+}

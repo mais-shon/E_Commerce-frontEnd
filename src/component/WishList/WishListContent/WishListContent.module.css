@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Permanent+Marker&display=swap');
+
+
+
+.head{
+
+    margin-top:3%;
+    margin-left: 3%;
+     font-family: 'Dosis', sans-serif;
+}
+.supper{
+ 
+  background-color: rgb(240, 240, 246);
+  width:98%;
+  margin-left:2%;
+  margin-top:2%;
+  height: 100%;
+  margin-right:2%;
+  padding:1% 2%;
+  border-radius: 4px;
+
+
+}
+.card {
+    margin-top: 5%;
+
+
+  }
+.par{
+    font-size: 14px;
+    margin-top: -5%;
+    margin-left: 3%;
+}
+.head2{
+  margin-left: -3%;
+  font-size: 6px;
+  margin-top: -5%;
+
+}
+
+.icon{
+  margin-left: 80%;
+font-size: 26px;
+margin-top:-21%;
+}

@@ -1,0 +1,92 @@
+
+
+    .image{
+        width: 90%;
+      height: auto;
+      max-height: 50vh; /* Adjust as needed */
+      display: block; /* Ensures image behaves as a block-level element */
+      margin: 2% ; 
+      margin-bottom: 4%;
+      position: relative;
+    }
+    .super{
+        width: 80%;
+       
+      overflow:visible;
+      min-height: 100%; /* Adjust as needed */
+     
+    }
+    .img{
+    position: absolute;
+top:44%;
+left:24%;
+width:23%;
+height:34%;
+border-radius: 2%;
+border:1px rgb(119, 67, 167) solid;
+
+    }
+    .head{
+        position:absolute;
+        top:68%;
+        left:48%;
+        color: rgb(110, 97, 127);
+    }
+
+    .update {
+        position: absolute;
+        top: 68%;
+        right: 7%;
+        background-color: rgb(110, 97, 127);
+        padding: 1% 1%;
+        color: white;
+        text-decoration: none;
+        font-size: 16px;
+        border-radius: 5px;
+        transition: font-size 0.3s; /* Add a transition for the font-size property */
+      }
+      
+      .update:hover {
+        font-size: 17px;
+      }
+
+      .bio{
+        position: absolute;
+        top: 84%;
+        left:24%;
+        width:22%;
+        background-color:rgb(189, 184, 203);
+        border-radius: 5px;
+        padding:1% 1%;
+        color: rgb(110, 97, 127);;
+       
+      }
+
+      .products{
+       
+        width:44%;
+        position: absolute;
+        top:84%;
+        right:8%;
+      }
+      .card{
+        margin-bottom: 4%;
+        
+      }
+.post{
+  position: absolute;
+  top: 68%;
+  right: 21%;
+  background-color: rgb(110, 97, 127);
+  padding: 1% 1%;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 5px;
+  transition: font-size 0.3s; /* Add a transition for the font-size property */
+}
+
+
+.post:hover {
+  font-size: 17px;
+}

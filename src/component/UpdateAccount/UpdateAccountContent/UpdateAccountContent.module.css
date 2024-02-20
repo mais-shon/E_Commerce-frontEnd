@@ -1,0 +1,39 @@
+
+.updateForm{
+    background-color: rgb(233, 232, 238);
+    width:90%;
+    margin:auto;
+    opacity: .9 ;
+    padding:32px;
+    padding-top: 10%;
+    border-radius: 7px;
+    position: relative;
+    top:.5%;
+    height: 70vh;
+  
+  }
+ 
+  .form-control::placeholder {
+      color: #ee1e1e; /* Lighter placeholder color */
+      font-style: italic; /* Italics for placeholder */
+    }
+  
+    .signUpForm input{
+      color: #ee1e1e; /* Lighter placeholder color */
+      font-style: italic; /* Italics for placeholder */
+    }
+    .head{
+      background-color:   rgb(233, 232, 238);
+      width:fit-content;
+      position: relative;
+      top:12%;
+      left:8%;
+      z-index: 999;
+      padding: 13px;
+      border-radius: 3px;
+    }
+
+    .superDiv{
+    
+      width:80%
+    }

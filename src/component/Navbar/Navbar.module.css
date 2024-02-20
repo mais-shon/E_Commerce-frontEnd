@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Rubik+Doodle+Triangles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Pacifico&display=swap');
+
+.navbar{
+    background-color: rgb(110, 97, 127);
+    height:100%;
+    border-radius: 0;
+
+}
+.portrait{
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-size: 26px;
+   
+   
+}
+.icon{
+    padding-top: 12%;
+ 
+color: rgb(47, 44, 44);
+}
+.signin{
+    cursor: pointer;
+}
+.signout{
+    cursor: pointer;
+}
+.Signup{
+    cursor: pointer;
+}

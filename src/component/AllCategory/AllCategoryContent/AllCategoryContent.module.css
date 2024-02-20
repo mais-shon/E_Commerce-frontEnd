@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Permanent+Marker&display=swap');
+
+.super{
+    width:100%;
+    margin: 2% 3%;
+}
+.category{
+    padding:2%;
+}
+.list{
+    padding: 2% 1%;
+    color:rgb(130, 93, 165);
+    border: 1px rgb(153, 46, 169) solid;
+    margin-bottom: 1%;
+    border-radius: 5px;
+}
+.head{
+    font-family: 'Dosis', sans-serif;
+    margin-bottom: 4%;
+}
+.list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    border-bottom: 1px solid #ccc; /* Optional: Add a border between list items */
+  }
+  
+  .delete {
+    background-color: rgb(110, 97, 127);
+    color: #fff;
+    border: none;
+    padding: 3px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .form {
+    display: flex;
+    width:96%;
+    margin-left: 2%;
+  }
+  
+  .input {
+    flex: 1;
+    padding: 8px;
+    border: 1px rgb(110, 97, 127) solid;
+    border-radius: 5px;
+  }
+  
+  .button {
+    margin-left: 10px; /* Adjust as needed for spacing between input and button */
+    border-radius: 5px;
+    border:1px white solid;
+    color:white;
+    background-color: rgb(110, 97, 127);
+  }

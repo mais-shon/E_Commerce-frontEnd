@@ -1,0 +1,24 @@
+.footer {
+  background-color: rgb(110, 97, 127);
+    margin-top: 5%;
+    border-radius: 3px;
+    padding: 3% 0%;
+    z-index: -2;
+  }
+  
+  ul {
+    color: rgb(68, 69, 70);
+    list-style-type: none;
+  }
+  
+  .link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: transform 0.9s ease; /* Add transition for smooth animation */
+  }
+  
+  .link:hover {
+    color: rgb(4, 4, 4);
+    text-decoration: none;
+    transform: translateX(5px); /* Adjust the value based on your preference */
+  }

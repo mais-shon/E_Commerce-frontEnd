@@ -1,0 +1,57 @@
+
+.signUpForm{
+  background-color: rgb(195, 191, 200);
+  width:40%;
+  margin:auto;
+  opacity: .9 ;
+  padding:50px;
+  padding-top: 7%;
+  border-radius: 7px;
+  position: relative;
+  top:20px;
+
+}
+.superDiv{
+    width:100%;
+  background-image: url(../../img/IMG_8785.JPG);
+  height: 100vh;
+    opacity: .7;
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+  background-size: cover;
+
+}
+.form-control::placeholder {
+    color: #ee1e1e; /* Lighter placeholder color */
+    font-style: italic; /* Italics for placeholder */
+  }
+
+  .signUpForm input{
+    color: #ee1e1e; /* Lighter placeholder color */
+    font-style: italic; /* Italics for placeholder */
+  }
+  .head{
+    background-color:  rgb(195, 191, 200);
+    width:fit-content;
+    position: relative;
+    top:16%;
+    left:45%;
+    z-index: 999;
+    padding: 13px;
+    border-radius: 3px;
+  }
+
+
+  
+  .signin{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 70%;
+    transition: color 0.3s, font-size 0.3s; /* Add transitions for color and font-size */
+  }
+  
+  .signin:hover {
+    text-decoration: underline;
+    color: rgb(77, 29, 74);
+    font-size: 17px;
+  }

@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Permanent+Marker&display=swap');
+
+.super{
+    width:80%;
+    margin:5% 3%;
+}
+.content{
+   width:70%;
+   height: fit-content;
+   background-color: rgba(222, 216, 223, 0.758);
+border-radius:5px ;
+padding: 2% 2%;
+margin: auto;
+margin-top: 3%;
+}
+.head{
+    font-family: 'Dosis', sans-serif;
+    margin-left: 15%;
+}
+.name{
+    margin-bottom: 5%;
+}
+
+.submit {
+    width: 30%;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: rgb(150, 110, 160);
+   
+    border-radius: 4px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border: 1px white solid;
+    transition: transform 0.3s ease; /* Adding transition for smooth effect */
+  }
+  
+  .submit:hover {
+    transform: translateY(-3px); /* Adjust the value as needed for the desired translation */
+    background-color: rgb(175, 134, 184); /* Change the color on hover if desired */
+    cursor: pointer;
+  }
+
+
+
+ input{
+    background:white;
+    color:black;
+  
+}
+button{
+    background-color: rgb(150, 110, 160);
+    
+}

@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Permanent+Marker&display=swap');
+
+
+.image{
+    width: 90%;
+  height: auto;
+  max-height: 50vh; /* Adjust as needed */
+  display: block; /* Ensures image behaves as a block-level element */
+  margin: 2% ; 
+
+  margin-bottom: 4%;
+}
+.super{
+width: 100%;
+
+ 
+}
+.content{
+    width: 86%;
+    margin-left:4%;
+}
+.head{
+    font-family: 'Dosis', sans-serif;
+    margin-top: -2%;
+}
+
+.link{
+    text-decoration: none;
+}

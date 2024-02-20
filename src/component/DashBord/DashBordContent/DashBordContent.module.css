@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Permanent+Marker&display=swap');
+
+.father{
+    display: flex;
+ 
+    gap:2%;
+    width: 95%;
+    padding:1% 5%
+}
+.super{
+  margin-top: 2%;
+    width: 100%;
+    font-family: 'Dosis', sans-serif;
+}
+.head{
+    margin-left: 3%;
+}
+.char3{
+width:50%
+}
+.char1{
+    width:60%
+}
+.char2 {
+    text-align: right;
+    width: 46%; /* Set the width for char2 */
+    margin-left: auto; /* Align to the right by setting margin-left to auto */
+    margin-right: 9%;
+  }
+  .char4{
+    text-align: right;
+    height:40%;
+    width: 53%; /* Set the width for char2 */
+    margin-left: auto; /* Align to the right by setting margin-left to auto */
+   
+  }
+
+  .square {
+    width: 200px;
+    height: 200px;
+    background-color: #e0e0e0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .squareContent {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  .father2{
+    display: flex;
+  
+    width: 95%;
+    padding:1% 5%
+  }

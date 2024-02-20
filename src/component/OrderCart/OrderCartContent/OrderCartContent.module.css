@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Permanent+Marker&display=swap');
+
+
+.superr{
+ 
+  width:100%
+}
+.head{
+    margin-top:3%;
+    margin-left: 4%;
+    margin-bottom: 1%;
+    font-family: 'Dosis', sans-serif;
+}
+.supper{
+  background-color: rgb(240, 240, 246);
+  width:90%;
+  margin-left:2%;
+  margin-top:2%;
+  height: 100%;
+  margin-right:2%;
+  padding: 1% 2%;
+  border-radius: 4px;
+
+
+}
+.card {
+    margin-top: 5%;
+width:100%
+
+  }
+.par{
+    font-size: 14px;
+}
+  
+  .MakeOrder button {
+    /* Example styles, customize as needed */
+    padding: 2% 10%;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 40%;
+    margin-top: 3%;
+    background-color: rgb(80, 67, 97) !important; /* Change background color on hover */
+  float: left;
+    color: white;
+    transition: transform 0.8s, background-color 0.3s; /* Add transitions for transform and background-color */
+    display: inline-block;
+    margin-left: 8%;
+  }
+  
+  .MakeOrder button:hover {
+    transform: scale(1.1); /* Apply a scale transform on hover */
+    background-color: rgb(88, 77, 101) !important; /* Change background color on hover */
+  }
+
+  
+
+  .clear button{
+    /* Example styles, customize as needed */
+    padding: 2% 10%;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 40%;
+    margin-top: 3%;
+    background-color: rgb(80, 67, 97) !important; /* Change background color on hover */
+  
+    color: white;
+    transition: transform 0.8s, background-color 0.3s; /* Add transitions for transform and background-color */  
+    display: inline-block;
+    float: right;
+    margin-right: 8%;
+  }
+
+
+  .clear button:hover {
+    transform: scale(1.1); /* Apply a scale transform on hover */
+    background-color: rgb(88, 77, 101) !important; /* Change background color on hover */
+  }
+  
+
+  .makeclear{
+
+    width: 100%;
+  }
